@@ -1,7 +1,15 @@
 # 🚀 GitQuest: CyberAtlas x RoboticsAI
 
-![CyberAtlas Logo](assets/cyber.png)
-![Robotics & AI Club Logo](assets/robotics.jpeg)
+<table>
+  <tr>
+    <td align="center"><img src="assets/cyber.png" alt="CyberAtlas Logo" width="150"></td>
+    <td align="center"><img src="assets/robotics.jpeg" alt="Robotics & AI Club Logo" width="150"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>CyberAtlas</b></td>
+    <td align="center"><b>Robotics & AI Club</b></td>
+  </tr>
+</table>
 
 Welcome to **GitQuest**, an exciting collaboration between **CyberAtlas** and **Robotics & AI Club**! 🎉 Our goal is to empower students with essential **Git and GitHub** skills in a fun and interactive way. Whether you're a total beginner or looking to sharpen your skills, this collab will guide you through version control like a pro! 💻✨
 
@@ -10,7 +18,6 @@ Welcome to **GitQuest**, an exciting collaboration between **CyberAtlas** and **
 Both **CyberAtlas** (focused on cybersecurity) and **Robotics & AI Club** (focused on innovation and AI) believe in open-source learning. Through this initiative, we aim to:
 - Teach students **Git & GitHub** step by step.
 - Promote collaboration through real-world **pull requests, branches, and commits**.
-- Help students build their first open-source contributions.
 - Strengthen teamwork between tech enthusiasts from different fields.
 
 ---
