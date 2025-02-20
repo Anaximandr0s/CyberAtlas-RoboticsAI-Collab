@@ -44,7 +44,7 @@ def main():
     clear()  # Clear the screen again
     print("Just kidding, it's just a prank! 😆")
     print("Thank you for being here in this amazing session!")
-    time.sleep(5)  # Display the message for a few seconds
+    time.sleep(3)  # Display the message for a few seconds
     
     # End the script with a final clear
     clear()
