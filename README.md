@@ -34,17 +34,6 @@ Both **CyberAtlas** (focused on cybersecurity) and **Robotics & AI Club** (focus
 
 ---
 
-## 🎮 Fun & Unique Activities!
-
-To make this session engaging, we have planned some fun activities:
-
-🔥 **The Merge Conflict Battle** – You’ll be given a conflicting file to resolve in teams. First team to fix it wins!
-🚀 **Git Scavenger Hunt** – Follow a series of Git challenges hidden in different branches!
-🎭 **Git Commit Storytelling** – Make commits that tell a funny or mysterious story. Creativity is key! 😆
-🎖️ **Pull Request Challenge** – Your first PR gets you a surprise reward! 🎁
-
----
-
 ## 🛠️ Setup Guide
 
 Before we start, make sure you have:
@@ -55,7 +44,7 @@ Before we start, make sure you have:
 
 **Clone this repo and get started:**
 ```sh
-git clone https://github.com/CyberAtlas-RoboticsAI/GitQuest.git
+https://github.com/Anaximandr0s/CyberAtlas-RoboticsAI-Collab.git
 ```
 
 ---
