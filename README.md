@@ -51,7 +51,8 @@ https://github.com/Anaximandr0s/CyberAtlas-RoboticsAI-Collab.git
 
 ## 🤝 Meet the Teams
 
-👨‍💻 **CyberAtlas** – A cybersecurity-focused club specializing in ethical hacking, SOC, and CTF challenges.
+👨‍💻 **CyberAtlas** – A cybersecurity-focused club specializing in ethical hacking and CTF challenges.
+
 🤖 **Robotics & AI Club** – Innovators in AI, machine learning, and robotics solutions.
 
 Together, we make an unstoppable tech force! 💪🔥
